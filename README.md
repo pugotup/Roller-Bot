@@ -3,10 +3,10 @@ it should be very easy for anyone to recreate ill leave instructions below
 i hope you enjoy making it!
 
 
-<p align="center">
+<p align="left">
   <img src="housing+wheels.PNG" alt="full body" width="500">
 </p>
-<p align="center">
+<p align="right">
   <img src="housing.PNG" alt="house" width="500">
 </p>
 <p align="center">
