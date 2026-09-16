@@ -6,3 +6,9 @@ i hope you enjoy making it!
 <p align="center">
   <img src="housing+wheels.PNG" alt="full body" width="500">
 </p>
+<p align="center">
+  <img src="housing.PNG" alt="house" width="500">
+</p>
+<p align="center">
+  <img src="wheels.PNG" alt="wheels" width="500">
+</p>
