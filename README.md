@@ -10,5 +10,5 @@ i hope you enjoy making it!
   <img src="housing.PNG" alt="house" width="500">
 </p>
 <p align="center">
-  <img src="wheels.PNG" alt="wheels" width="500">
+  <img src="wheel.PNG" alt="wheels" width="500">
 </p>
