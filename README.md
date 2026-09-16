@@ -23,4 +23,12 @@ just follow these steps :)
 
 once you have all the parts and pcb's 
 
-solder the parts to the 
+1:solder the parts to the reciever pcb (Rollerbot-brain.zip)
+2:flash the reciever code onto the esp32 (ROLLERBOT-reciever.ino)
+3: mount the pcb on to one side of the flat plate in the middle of the housing using hot glue or however youd like
+4: mount the servos on the opposite side of the flat plate using tape or velcro or 3d print glue
+5: connect the servos thingie majigs into the holes of each wheel.(you will have to take a wheel off to turn the robot on and off everytime which i know is annoying 😭 but i wanted to keep it very consistent on the outside)
+6: solder the parts to the controller pcb (rollerbot-controller.zip)
+7: flash the transmitter code onto the controllers esp2 (ROLLERBOT-transmitter.ino)
+
+done! 
