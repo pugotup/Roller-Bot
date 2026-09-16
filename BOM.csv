@@ -1,0 +1,15 @@
+parts needed to build roller-bot!
+
+housing: 1 housing.stl 2 wheels.stl
+
+pcbs: 1 reciever pcb for the robot
+      1 transmitter pcb for the controller
+
+electronics:
+            2 xiao seeed esp32-c3
+            2 360 SG90 servo motors
+            2 5 pin dual axis joystick
+            2 tactile buttons
+            2 3 pin switches
+            (batteries to power the controller and robot a 18650 will do fine)
+            
